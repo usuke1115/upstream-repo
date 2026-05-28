@@ -1,0 +1,2 @@
+- `upstream-repo` リポジトリは本家のリポジトリ
+- `fork-repo` は fork して `upstream-repo` の変更を取り込みたい側のリポジトリ
